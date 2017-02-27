@@ -1,7 +1,7 @@
 #Metadata Update
 
 This script can update an item with bibliographic metadata found using the item's DOI or 
-PubMed ID.The tool can either update, overwrite or just report on differences found.
+PubMed ID. The tool can either update, overwrite or just report on differences found.
 
 The original script is available on http://files.eprints.org/744/ 
 
